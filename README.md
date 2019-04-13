@@ -1,0 +1,2 @@
+# MemorizeChineseAncientProses
+这个简陋的Python脚本可以帮助你背古文。
