@@ -1,4 +1,4 @@
-# MemorizeChineseAncientProses
+# MemorizeChineseAncientProses（熟背古文一千遍）
 这个简陋的Python脚本可以帮助你背古文。
 
 ## 如何使用
